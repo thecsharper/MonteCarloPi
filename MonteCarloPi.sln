@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonteCarloPi", "MonteCarloPi\MonteCarloPi.csproj", "{63C905EF-E915-4642-97DD-2E03DB9A87A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonteCarloPiTests", "MonteCarloPiTests\MonteCarloPiTests.csproj", "{C57A6E87-0CA1-4696-A36A-E74677303558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C905EF-E915-4642-97DD-2E03DB9A87A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C905EF-E915-4642-97DD-2E03DB9A87A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C905EF-E915-4642-97DD-2E03DB9A87A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C905EF-E915-4642-97DD-2E03DB9A87A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57A6E87-0CA1-4696-A36A-E74677303558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57A6E87-0CA1-4696-A36A-E74677303558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57A6E87-0CA1-4696-A36A-E74677303558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57A6E87-0CA1-4696-A36A-E74677303558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {442261AF-51FE-4EDC-973C-B880030565FA}
+	EndGlobalSection
+EndGlobal
